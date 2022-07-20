@@ -1,0 +1,15 @@
+{
+    "name": "ygors/hyperposters2",
+    "autoload": {
+        "psr-4": {
+            "Ygors\\Hyperposters2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ygor",
+            "email": "ygorsramos99@gmail.com"
+        }
+    ],
+    "require": {}
+}
